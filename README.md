@@ -44,8 +44,10 @@ For own revision purpose.
     <ul>
       <li>
         
-  `sns.distplot`
+  `sns.distplot`   *Deprecated soon* //
   <b>Histograms</b> - show the distribution of a single numerical variable.</li>
+  
+  `sns.displot`  `sns.histplot` // Replacement
       <li>
   
    `sns.kdeplot`
